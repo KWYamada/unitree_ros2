@@ -1,0 +1,6 @@
+[submodule "cyclonedds_ws/src/rmw_cyclonedds"]
+	path = cyclonedds_ws/src/rmw_cyclonedds
+	url = https://github.com/ros2/rmw_cyclonedds
+[submodule "cyclonedds_ws/src/cyclonedds"]
+	path = cyclonedds_ws/src/cyclonedds
+	url = https://github.com/eclipse-cyclonedds/cyclonedds

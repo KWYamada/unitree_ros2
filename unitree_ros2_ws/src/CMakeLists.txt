@@ -45,7 +45,7 @@ ament_target_dependencies(unitree_ros2 ${DEPENDENCY_LIST})
 
 install(TARGETS 
         unitree_ros2
-        DESTINATION)
+        DESTINATION lib)
 
 install(DIRECTORY include/ DESTINATION include/)
 install(DIRECTORY third_party/include/ DESTINATION include/)
